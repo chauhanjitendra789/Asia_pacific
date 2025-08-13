@@ -1,7 +1,10 @@
 import java.util.Scanner;
 public class User2 {
     public static void main(String[] args) {
-
-        System.out.println("hello world");
+        Scanner sc = new Scanner(System.in);
+        System.out.println("Enter the number:");
+        String a = sc.nextLine();
+        
+        system.out.println("You entered: " + a);
     }
 }
