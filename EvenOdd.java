@@ -6,9 +6,9 @@ public class EvenOdd {
         int a = sc.nextInt();
         
         if (a % 2 == 0) {
-            System.out.println("Even number");
+            System.out.println("Even number is print");
         } else {
-            System.out.println("Odd number");
+            System.out.println("Odd number is print");
         }
         
         
